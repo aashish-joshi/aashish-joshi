@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aashish-joshi
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning CSS, JavaScript, Python, Flask & MongoDB
+- 👀 I’m a full stack development
+- 🌱 I like working with NodeJS and Python
 - 💞️ I’m looking to collaborate on OpenSource projects
 - 📫 How to reach me hello@aashishjoshi.co.in
 
