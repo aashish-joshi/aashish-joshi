@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aashish-joshi
-- 👀 I’m a full stack MERN developer
+- 👀 I’m a full stack developer
 - 🌱 I like working with NodeJS and Python
 - 💞️ I’m looking to collaborate on OpenSource projects
 - 📫 How to reach me hello@aashishjoshi.co.in
