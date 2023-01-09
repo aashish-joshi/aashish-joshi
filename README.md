@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aashish-joshi
 - 👀 I’m a full stack developer
-- 🌱 I like working with NodeJS and Python
-- 💞️ I’m looking to collaborate on OpenSource projects
+- 🌱 I like working with Python and JavaScript.
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me hello@aashishjoshi.co.in
 
 <!---
